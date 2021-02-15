@@ -1,0 +1,76 @@
+ 
+.banner{
+    background-color: cyan;
+    height: 300px;
+    width: 80%;
+    text-align: center;
+    float: left;
+    
+}
+.banner h1{
+    color: rgb(26, 5, 26);
+    font-size: 50px;
+    padding-top: 60px;
+}
+.logo{
+    background-color: darkgoldenrod;
+    height: 300px;
+    widows: 20%;
+    text-align: center;
+    float: left;
+    
+}
+.logo h1{
+    color: white;
+    padding-top: 20px;
+}
+.header{
+    margin: 0 20px;
+    overflow: hidden;
+}
+
+    
+   
+
+.left{
+    background-color: yellow;
+    height: 400px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.center{
+    background-color: violet;
+    height: 400px;
+    width: 40%;
+    text-align: center;
+    float: left;
+}
+.right{
+    background-color: tomato;
+    height: 400px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.article{
+    margin: 0 50px;
+    overflow: hidden;
+}
+
+   
+   
+   
+  
+
+
+
+
+   
+    
+
+   
+
+    
+    
+   
